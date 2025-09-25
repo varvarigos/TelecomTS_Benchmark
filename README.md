@@ -1,6 +1,6 @@
 # TelecomTS Benchmark
 
-Run strong time-series baselines on TelecomTS — a large, high-resolution, multi-modal 5G observability dataset — for anomaly detection, root-cause (multi-class) classification, anomaly duration (sequence) prediction, and forecasting.
+Run strong time-series baselines on TelecomTS — a large, high-resolution, multi-modal 5G observability dataset — for anomaly detection, root-cause classification, anomaly duration prediction, and forecasting.
 
 ## 🔧 Setup
 
