@@ -35,11 +35,11 @@ python3 src/run.py
 * **Change encoder**: set `encoder_type` in `configs/config.yaml`.
   Available:
 
-  * TimesNet
-  * Autoformer
-  * Nonstationary_Transformer
-  * FEDformer
-  * Informer
+  * `TimesNet`
+  * `Autoformer`
+  * `Nonstationary_Transformer`
+  * `FEDformer`
+  * `Informer`
 
 * **Change task**: set `task_type` to one of:
 
