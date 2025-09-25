@@ -32,9 +32,7 @@ source .venv/bin/activate
 python3 src/run.py
 ```
 
-* **Change encoder**: set `encoder_type` in `configs/config.yaml`.
-  Available:
-
+* **Change encoder**: set `encoder_type` in `configs/config.yaml`. Available:
   * `TimesNet`
   * `Autoformer`
   * `Nonstationary_Transformer`
@@ -42,7 +40,6 @@ python3 src/run.py
   * `Informer`
 
 * **Change task**: set `task_type` to one of:
-
   * `anomaly detection`
   * `root-cause analysis` (multi-class CE)
   * `anomaly duration`
