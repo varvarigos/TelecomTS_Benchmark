@@ -1,8 +1,6 @@
-# 'anomaly detection' | 'root-cause analysis' | 'anomaly duration' | 'forecasting'
-task_type: 'anomaly detection'
+task_type: 'anomaly detection' # 'anomaly detection' | 'root-cause analysis' | 'anomaly duration' | 'forecasting'
 
-# 'TimesNet' | 'Autoformer' | 'NonStationary_Transformer' | 'FEDformer' | 'Informer'
-encoder_type: 'TimesNet'
+encoder_type: 'TimesNet'       # 'TimesNet' | 'Autoformer' | 'NonStationary_Transformer' | 'FEDformer' | 'Informer'
 
 seed: 42
 
